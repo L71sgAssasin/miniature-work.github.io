@@ -1,0 +1,4 @@
+body{ margin: 100px;}
+image{width:0, auto;}
+table,th,td{border: solid black 2px;}
+table,th,td{border-collapse: collapse;}
